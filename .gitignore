@@ -6,3 +6,4 @@ __pycache__/
 ignoredFiles
 google-cloud-sdk
 client_file_poster_stormer.json
+node_modules
